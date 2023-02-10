@@ -1,0 +1,16 @@
+vpc-cidr                = "10.0.0.0/16"
+vpc-name                = "Lab3-vpc"
+public-az-subnet        = ["us-east-2a", "us-east-2b"]
+private-az-subnet       = ["us-east-2a", "us-east-2b"]
+public-subnets_cidr     = ["10.0.0.0/24", "10.0.2.0/24"]
+private-subnets_cidr    = ["10.0.1.0/24", "10.0.3.0/24"]
+public-subnets_name     = ["public-subnet-1", "public-subnet-2"] 
+private-subnets-name    = ["private-subnet-1", "private-subnet-2"]
+destination_cidr_block  = "0.0.0.0/0"
+cidr_blocks_allow_all   = ["0.0.0.0/0"]
+algorithm               = "RSA"
+rsa_bits                = 4096
+key_name                = "key-pair"
+instance_type           = "t2.micro"
+public-ec2-names        =  ["public-ec2-1", "public-ec2-2"] 
+private-ec2-names       = ["private-ec2-1", "private-ec2-2"]
