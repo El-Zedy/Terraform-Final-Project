@@ -2,7 +2,7 @@
 ![Alt Text](https://github.com/El-Zedy/Terraform-Final-Project/blob/main/screenshots/infrastructure.png)
 This repository contains Terraform code for a solution that creates a highly available infrastructure on AWS.
 
-### consisting of:
+### Consisting of:
 - Public and private subnets
 - Internet gateway
 - NAT gateway
