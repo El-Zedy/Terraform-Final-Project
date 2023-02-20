@@ -67,7 +67,6 @@ To use this solution, you will need:
   8. View the S3 bucket to see the state file
   
   9. check the `ips.txt` to check your public and private EC2s ips.
-  
   10.check all screenshots at the `screenshots` directory to clarify everything.
   
 ## Contact
