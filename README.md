@@ -68,7 +68,7 @@ To use this solution, you will need:
   
   9. check the `ips.txt` to check your public and private EC2s ips.
   
-  10.check all screenshots at the `screenshots` directory to clarify everything.
+   10.check all screenshots at the `screenshots` directory to clarify everything.
   
 ## Contact
 If you have any questions or suggestions regarding this project, please contact the project owner at muhammadhassanelzedy@gmail.com .
